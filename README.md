@@ -12,6 +12,7 @@ This repository, **prashantjaybhaye-gsap-react**, is a modern web application bu
 
 ## 📁 Project Structure
 
+```
 prashantjaybhaye-gsap-react/
 ├── README.md
 ├── eslint.config.js
@@ -46,26 +47,26 @@ prashantjaybhaye-gsap-react/
     └── Utils/
         ├── animations.js
         └── index.js
-
+```
 
 ## 🛠️ Installation & Setup
 
 1. **Clone the repository**
-   bash
+   ```bash
    git clone https://github.com/your-username/prashantjaybhaye-gsap-react.git
-   
+   ```
 2. **Navigate to the project directory**
-   bash
+   ```bash
    cd prashantjaybhaye-gsap-react
-   
+   ```
 3. **Install dependencies**
-   bash
+   ```bash
    npm install
-   
+   ```
 4. **Start the development server**
-   bash
+   ```bash
    npm run dev
-   
+   ```
 
 ## 🎨 Tech Stack
 
@@ -81,3 +82,4 @@ Contributions are welcome! Feel free to fork, improve, and submit a pull request
 ## 📜 License
 
 This project is open-source and available under the [MIT License](LICENSE).
+
